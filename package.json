@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "firebase": "^12.6.0"
+  },
+  "devDependencies": {
+    "vite": "^7.3.0"
+  }
+}
